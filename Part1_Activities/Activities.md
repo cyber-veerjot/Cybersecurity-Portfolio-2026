@@ -20,8 +20,8 @@ These observations were made during my daily visits to campus, including the lib
 ## Activity A2 - Discover security concepts used in public space
 ### Description:
 To do this activity, i explored the bus station, shopping centre and city as there are multiple security systems implemented. These systems are designed to protect people from potential harm and prevent crimes.
-### Identifies Security Concepts:
-1. **Suveillance Systems (CCTV Cameras)**
+### Identified Security Concepts:
+1. **Surveillance Systems (CCTV Cameras)**
 CCTV cameras in public areas such as bus stations and shopping centres are used to monitor large crowds and detect suspicious behaviour.
 2. **Security Patrols**
 Security guards patrol areas such as bus stations, city to maintain order and respond to incidents.
@@ -34,13 +34,14 @@ Public security systems focus on crime prevention and safety of large groups of 
 ### Evidence:
 These observations were made at the bus station, shopping centre, and city areas. Supporting images such as CCTV cameras, access control systems, and alarm systems have been uploaded in the Evidence folder.
 
-## Activtity A3 - Discover security concepts used in your house
+## Activity A3 - Discover security concepts used in your house
 ### Description:
 For this activity, I explored the security measures used in my home to protect personal safety and private information.
+### Identified Security Concepts:
 1. **Home Surveillance (CCTV / Apartment Security)**
 CCTV cameras are installed at the main entrance of the apartment building and monitored through a security room.
 2. **Physical Locks**  
-Our front door has a deadbolt and also chain is attached and the windows have locks, which prevent unauthorised physical entry.
+Our front door has a deadbolt and also chain is attached for the extra security and the windows have locks, which prevent unauthorised physical entry.
 3. **Wifi Security**
 Our home network uses a strong password and encryption so neighbours cannot connect and see our traffic.
 4. **Device Security**
