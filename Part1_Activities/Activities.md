@@ -4,7 +4,7 @@
 ### Description:
 I explored and identified various security concepts implemented across my university campus (UWA). These systems are designed to protect students, staff, and university property from both physical and digital threats.
 ### Identified Security Concepts:
-1. **Surveillance Systems (CCTV Cameras)**  
+1. **Surveillance Systems (CCTV Cameras)**
 CCTV cameras are installed in lecture halls, libraries, entrances, and outdoor areas. These cameras continuously monitor activity and help deter theft, vandalism, and suspicious behaviour.
 2. **Access Control Systems (Student ID Cards)**  
 Certain buildings and rooms require student ID card access. This ensures that only authorised individuals can enter restricted areas such as labs or staff-only zones.
@@ -19,9 +19,27 @@ These observations were made during my daily visits to campus, including the lib
 
 ## Activity A2 - Discover security concepts used in public space
 ### Description:
-To do this activity, i went to the bus station and shopping as there are multiple security systems implemented. These systems are designed to protect the people from any harms and prevent crimes.
+To do this activity, i explored the bus station, shopping centre and city as there are multiple security systems implemented. These systems are designed to protect the people from any harms and prevent crimes.
 ### Identifies Security Concepts:
 1. **Suveillance Systems (CCTV Cameras)**
 CCTV cameras are installed at the main entrances, inside the buildings that monitor the public activity.
 2. **Access Control Systems**
-Many buildings entrances and rooms required a card access such as key cards, facial recognition because this prevents from any unauthorised access
+Many buildings entrances and rooms required a card access such as key cards, facial recognition because this prevents from any unauthorised access.
+3. **Security Patrols**
+Security guards patrol areas such as bus stations, city to maintain order and respond to incidents.
+4. **Alarm Systems**
+The Bus station and shopping centres use alarm systems that trigger alerts in case of theft or emergencies.
+### Analysis:
+Public security systems focus on crime prevention and safety of large groups of people. Surveillance and guards work together to reduce risks such as theft and vandalism.
+### Evidence:
+These observations were made during my daily visits to city, bus station, shopping centre. All photos are in the evidence folder.
+
+## Activtity A3 - Discover security concepts used in your house
+### Description:
+To do this activity, i discovered the concepts of security in my house to protect the personal safety and digital information.
+1. **Suveillance Systems (CCTV Cameras)**
+CCTV cameras are installed on the main enterance and in our appartment. And there is a security room for this.
+2. **Access Control Systems**
+ 
+
+
