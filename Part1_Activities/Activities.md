@@ -51,5 +51,20 @@ At home, security focuses on protecting family members and personal data. Physic
 ### Evidence:
 These observations were made at my home and apartment building. Supporting images such as door locks and CCTV systems are available in the Evidence folder.
 
+## Activity A5 - Discover cryptographic implementation used online
+### Description:
+I looked at how encryption is used by today's websites to safeguard data while it is in transit. Encryption technologies are used by many websites to guarantee secure transactions, safe browsing, and the defense of private data from hackers.
+### Identified Cryptographic Implementation:
+1. **HTTPS (TLS Encryption)**
+The majority of secure websites use HTTPS, which encrypts communication between my browser and the server using TLS (Transport Layer Security). By looking at the icon near to https://apps.cas.uwa.edu.au/even-student/timetable.htm in the browser address bar, I was able to confirm that it has a secure connection. The site uses TLS to encrypt requests and responses so that login details, personal information, and other data are protected while travelling across the internet.
+2. **Password Hashing**
+Online platforms store passwords in encrypted form instead of plain text. They securely store password hashes using cryptographic hashing methods (such as SHA-256 and bcrypt). Websites make reference to this in their privacy or security documentation, even though users cannot see it directly. The uwa website is also using a SHA-256 cryptographic hashing algorithm.
+3. **Secure Cookies**
+Secure cookies are frequently used by websites; they are encrypted and have the features Secure and HttpOnly. Cookie theft and session hijacking are less common because of these cryptographic protections.
+### Analysis:
+Cryptography ensures confidentiality and integrity of data. It prevents attackers from intercepting or modifying sensitive information such as passwords and personal details. these techniques like TLS which protects data from being intercepted, Certificates which prevent fake websites from tricking users and Hashing which protects stored credentials even if a database is compromised, collaborate to build a safe online environment and stop threats like phishing scams, man-in-the-middle attacks, and credential theft.
+### Evidence:
+i captured the screenshots of the uwa website to show the certificates and TLS Encryption and uploaded in the evidence folder.
+
 
 
