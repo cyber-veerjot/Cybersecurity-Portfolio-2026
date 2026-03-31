@@ -1,4 +1,4 @@
-# Part1 Cybersecurity Activites
+# Part1 Cybersecurity Activities
 
 ## Activity A1 – Security concepts used on campus
 ### Description:
