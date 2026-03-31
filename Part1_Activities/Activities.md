@@ -9,7 +9,7 @@ CCTV cameras are installed in lecture halls, libraries, entrances, and outdoor a
 2. **Access Control Systems (Student ID Cards)**  
 Certain buildings and rooms require student ID card access. This ensures that only authorised individuals can enter restricted areas such as labs or staff-only zones.
 3. **Physical Security (Security Guards)**  
-Security personnel are present around campus, especially during late hours. They monitor activities, respond to incidents, and ensure overall safety.
+Campus security personnel are present around campus, especially during late hours. They monitor activities, respond to incidents, and ensure overall safety.
 4. **Alarm Systems**  
 Emergency alarms are installed in buildings and can be triggered during dangerous situations such as fires or security threats.
 ### Analysis:
@@ -19,27 +19,36 @@ These observations were made during my daily visits to campus, including the lib
 
 ## Activity A2 - Discover security concepts used in public space
 ### Description:
-To do this activity, i explored the bus station, shopping centre and city as there are multiple security systems implemented. These systems are designed to protect the people from any harms and prevent crimes.
+To do this activity, i explored the bus station, shopping centre and city as there are multiple security systems implemented. These systems are designed to protect people from potential harm and prevent crimes.
 ### Identifies Security Concepts:
 1. **Suveillance Systems (CCTV Cameras)**
-CCTV cameras are installed at the main entrances, inside the buildings that monitor the public activity.
-2. **Access Control Systems**
-Many buildings entrances and rooms required a card access such as key cards, facial recognition because this prevents from any unauthorised access.
-3. **Security Patrols**
+CCTV cameras in public areas such as bus stations and shopping centres are used to monitor large crowds and detect suspicious behaviour.
+2. **Security Patrols**
 Security guards patrol areas such as bus stations, city to maintain order and respond to incidents.
-4. **Alarm Systems**
-The Bus station and shopping centres use alarm systems that trigger alerts in case of theft or emergencies.
+3. **Emergency Systems**
+Public places have emergency alarms and help points that people can use during unsafe situations.
+4. **Lighting and Visibility**  
+Well-lit areas reduce crime by increasing visibility at night. 
 ### Analysis:
 Public security systems focus on crime prevention and safety of large groups of people. Surveillance and guards work together to reduce risks such as theft and vandalism.
 ### Evidence:
-These observations were made during my daily visits to city, bus station, shopping centre. All photos are in the evidence folder.
+These observations were made at the bus station, shopping centre, and city areas. Supporting images such as CCTV cameras, access control systems, and alarm systems have been uploaded in the Evidence folder.
 
 ## Activtity A3 - Discover security concepts used in your house
 ### Description:
-To do this activity, i discovered the concepts of security in my house to protect the personal safety and digital information.
-1. **Suveillance Systems (CCTV Cameras)**
-CCTV cameras are installed on the main enterance and in our appartment. And there is a security room for this.
-2. **Access Control Systems**
- 
+For this activity, I explored the security measures used in my home to protect personal safety and private information.
+1. **Home Surveillance (CCTV / Apartment Security)**
+CCTV cameras are installed at the main entrance of the apartment building and monitored through a security room.
+2. **Physical Locks**  
+Our front door has a deadbolt and also chain is attached and the windows have locks, which prevent unauthorised physical entry.
+3. **Wifi Security**
+Our home network uses a strong password and encryption so neighbours cannot connect and see our traffic.
+4. **Device Security**
+Phones and laptops use PINs or biometrics to protect personal data if a device is lost or stolen.
+### Analysis:
+At home, security focuses on protecting family members and personal data. Physical controls (locks, cameras) protect against intruders, while digital controls (Wi‑Fi encryption, screen locks) protect our online accounts and devices.
+### Evidence:
+These observations were made at my home and apartment building. Supporting images such as door locks and CCTV systems are available in the Evidence folder.
+
 
 
