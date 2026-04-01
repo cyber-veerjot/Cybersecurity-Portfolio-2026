@@ -7,7 +7,7 @@ I explored and identified various security concepts implemented across my univer
 1. **Surveillance Systems (CCTV Cameras)**
 CCTV cameras are installed in lecture halls, libraries, entrances, and outdoor areas. These cameras continuously monitor activity and help deter theft, vandalism, and suspicious behaviour.
 2. **Access Control Systems (Student ID Cards)**  
-Certain buildings and rooms require student ID card access. This ensures that only authorised individuals can enter restricted areas such as labs or staff-only zones.
+Certain rooms require student ID card access. This ensures that only authorised students and staff or who has a card  can enter restricted areas such as labs or staff-only zones.
 3. **Physical Security (Security Guards)**  
 Campus security personnel are present around campus, especially during late hours. They monitor activities, respond to incidents, and ensure overall safety.
 4. **Alarm Systems**  
@@ -34,14 +34,15 @@ Public security systems focus on crime prevention and safety of large groups of 
 ### Evidence:
 These observations were made at the bus station, shopping centre, and city areas. Supporting images such as CCTV cameras, access control systems, and alarm systems have been uploaded in the Evidence folder.
 
+
 ## Activity A3 - Discover security concepts used in your house
 ### Description:
 For this activity, I explored the security measures used in my home to protect personal safety and private information.
 ### Identified Security Concepts:
-1. **Home Surveillance (CCTV / Apartment Security)**
-CCTV cameras are installed at the main entrance of the apartment building and monitored through a security room.
+1. **Home Surveillance (Apartment Security)**
+the main entrance has the cameras installed so that the entrance can be monitored through the security room
 2. **Physical Locks**  
-Our front door has a deadbolt and also chain is attached for the extra security and the windows have locks, which prevent unauthorised physical entry.
+to prevent unauthorised entry, the apartment's main door has a deadbolt lock with attached chain which ensures double security.
 3. **Wifi Security**
 Our home network uses a strong password and encryption so neighbours cannot connect and see our traffic.
 4. **Device Security**
@@ -72,11 +73,11 @@ In this activity, I explored how cryptography is used offline to protect data wi
 ### Identified Cryptographic Implementation:
 1. **Bank card chip**
 EMV chips, which contain encrypted payment information, are used in modern debit and credit cards.
-The chip uses secure methods (such as RSA, DES, or ECC) to perform offline cryptographic authentication when it is put into a payment terminal, ensuring that the card is authentic and hasn't been cloned.
+The chip uses secure methods (such as RSA, DES, or ECC) to perform offline cryptographic authentication when inserted into a payment terminal, ensuring that the card is authentic.
 2. **Device Encryption**
-As i use macbook, apple uses a full-disk encryption technology which is file vaults. FileVault operates offline and protects all files, documents, and system data by encrypting the whole internal drive using XTS-AES-128 with a 256-bit key. The data cannot be accessed without my recovery key or login password, even if the laptop is stolen and the SSD is taken out. Data is always encrypted while it's at rest, not simply when the device is linked to a network.
+Apple devices uses FileVault which operates offline and protects all files, documents, and system data by encrypting the whole internal drive using XTS-AES-128 with a 256-bit key. The data cannot be accessed without my recovery key or login password, even if the laptop is stolen and the SSD is taken out. Data is always encrypted while it's at rest, not simply when the device is linked to a network.
 ### Analysis:
-To protect data even when devices are not connected to the internet, offline cryptography is crucial and plays an important role in physical world. If a device is lost or stolen, full-disk encryption (such as FileVault) guarantees that private data cannot be accessed. Cryptographic algorithms are used by EMV chips to offer safe authentication and protect personal data.
+Offline cryptography plays an important role in physical world because if a device is lost or stolen, full-disk encryption (such as FileVault) ensures that private data cannot be accessed. Cryptographic algorithms are used by EMV chips to offer safe authentication and protect personal data.
 ### Evidence:
 To support this activity, i have taken the screenshots of fileVault, bank card chip and uploads in the evidence folder.
 
@@ -117,6 +118,26 @@ The mailbox can only be opened by someone with the key, which lowers the possibi
 Even in the absence of online networks, strategies like document shredding and sealed mailboxes guarantee that personal information cannot be accessed, stolen, or exploited. Because not all privacy dangers originate from the internet, some come from people physically accessing equipment or data, offline privacy solutions are crucial. By limiting who can physically access personal information, these offline techniques collectively offer robust protection, proving that privacy is not just a digital issue but also necessitates the safe handling of physical objects.
 ### Evidence:
 All supporting evidence for this activity is stored in the folder of evidence.
+
+## Activity A11 - Discover 5 unique access control devices
+### Description:
+I investigated several access control systems utilized in both digital and physical settings for this exercise. Access control devices are made to limit access to only those who are authorized. These devices make sure that only authorized users may access or utilize a system, protecting buildings, rooms, data, and personal belongings.
+### Identified Access Control Devices:
+1. **Biometric Scanner**
+Smartphones, computers, and office access systems all use fingerprint scanners. Only if the fingerprint matches the biometric data that has been stored is access allowed. Strong security is provided by biometric access since fingerprints are distinct.
+2. **KeyPad Lock**
+These are found in offices, garages, homes, and gates and to unlock the door, a person must input the correct number code.
+3. **RFID Card Reader**  
+Uses radio-frequency cards (e.g., student ID) to grant access and commonly use in the offices, appartments and universities.
+4. **Facial Recognition System**  
+Identifies individuals based on facial features.
+5. **Mobile Access Control Systems**
+Smartphones are used by users of mobile access control systems to unlock doors. These systems enable communication between the access control device and the smartphone via Bluetooth, NFC, or Wi-Fi.
+### Analysis:
+By limiting access to areas and systems to only those who are authorized, these access control devices improve security. Different authentication techniques, such as biometrics, PIN numbers, RFID cards, or mobile credentials, are used by each device. This lowers the possibility of theft, misuse, and unauthorized access to personal or company property. Security is strengthened and made more difficult to get around by combining digital and physical access control techniques.
+### Evidence:
+The evidences includes the photos of these devices in the evidence folder.
+
 
 
 
