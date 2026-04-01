@@ -93,8 +93,38 @@ Modern networks use multiple layers of cryptographic protection. Wi-Fi encryptio
 ### Evidence:
 The screenshots of the wireshark capture and the Wifi security settings, i attached in the evidence folder.
 
-## Activity 9 - Discover privacy technique used online
+## Activity A9 - Discover privacy technique used online
 ### Description:
+For this exercise, I investigated privacy strategies frequently employed on internet platforms to prevent unauthorized parties from accessing private data and communications. End-to-end encryption (E2EE) is one of the most popular and efficient online privacy strategies. Even if the connection goes over servers or networks, this technique guarantees that messages or data can only be viewed by the sender and the intended receiver.
+### Identified Privacy Techniques:
+1. **WhatsApp End-to-End Encryption(E2EE)**
+Whatsapp uses the end-to-end encryption to secure all user to user communications, including audio, videos, photos and file exchanges. it implies a message sent by a user is encrypted on their device. The internet service providers, hackers, governments, and even WhatsApp itself are unable to decrypt the message as it moves over the network. The private key needed to decrypt the communication is only on the intended recipient's device.
+### Analysis:
+It is one of the strongest online privacy techniques available today because it ensures the confidentiality, integrity, and privacy. In the event of a data breach, messaging apps could access or leak messages without E2EE. Because E2EE avoids extensive types of digital spying and interception, it is used by several contemporary privacy-focused online platforms, such as WhatsApp, Signal, and iMessage.
+This method facilitates safe interpersonal contact and provides users ownership over their data.
+### Evidence:
+i have attached the screenshots for the whatsapp encryption in the evidence folder.
+
+## Activity A10 - Discover privacy technique used offline
+In this activity, i explored the privacy techniques that are used to protect personal information without accessing the internet. 
+### Identified Privacy Techniques:
+1. **Document Protection (Shredding Sensitive Papers)**  
+Before being disposed of, sensitive documents like bank statements or personal details are shredded. In order to prevent documents from being read or reconstructed from the trash, a paper shredder breaks them up into tiny bits. By doing this, private information is shielded from illegal access.
+2. **Locked Mail Box**
+Letters that might contain private information, such bills or bank statements, cannot be readily accessed by others if the mailbox is locked. 
+The mailbox can only be opened by someone with the key, which lowers the possibility of identity fraud and mail theft.
+### Analysis:
+Even in the absence of online networks, strategies like document shredding and sealed mailboxes guarantee that personal information cannot be accessed, stolen, or exploited. Because not all privacy dangers originate from the internet, some come from people physically accessing equipment or data, offline privacy solutions are crucial. By limiting who can physically access personal information, these offline techniques collectively offer robust protection, proving that privacy is not just a digital issue but also necessitates the safe handling of physical objects.
+### Evidence:
+All supporting evidence for this activity is stored in the folder of evidence.
+
+
+
+
+
+
+
+
 
 
 
