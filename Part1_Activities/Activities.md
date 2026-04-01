@@ -66,5 +66,23 @@ Cryptography ensures confidentiality and integrity of data. It prevents attacker
 ### Evidence:
 i captured the screenshots of the uwa website to show the certificates and TLS Encryption and uploaded in the evidence folder.
 
-## Activity A6
+## Activity A6 - Discover cryptographic implementation used offline.
+### Description:
+In this activity, I explored how cryptography is used offline to protect data without requiring an internet connection. Encryption is used by many common tools, cards, and systems to safely store and safeguard private data even while they are not in use.
+### Identified Cryptographic Implementation:
+1. **Bank card chip**
+EMV chips, which contain encrypted payment information, are used in modern debit and credit cards.
+The chip uses secure methods (such RSA, DES, or ECC) to perform offline cryptographic authentication when it is put into a payment terminal, ensuring that the card is authentic and hasn't been cloned.
+2. **Device Encryption**
+As i have a macbook, apple uses a full-disk encryption technology which is file vaults. FileVault operates offline and protects all files, documents, and system data by encrypting the whole internal drive using XTS-AES-128 with a 256-bit key. The data cannot be accessed without my recovery key or login password, even if the laptop is stolen and the SSD is taken out. Data is always encrypted while it's at rest, not simply when the device is linked to a network.
+### Analysis:
+To protect data even when devices are not connected to the internet, offline cryptography is crucial and plays an important role in physical world. If a device is lost or stolen, full-disk encryption (such as FileVault) guarantees that private data cannot be accessed. Cryptographic algorithms are used by EMV chips to offer safe authentication and protect personal data.
+### Evidence:
+To support this activity, i have taken the screenshots of fileVault, bank card chip and uploads in the evidence folder.
+
+##
+
+
+
+
 
