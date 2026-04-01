@@ -72,15 +72,29 @@ In this activity, I explored how cryptography is used offline to protect data wi
 ### Identified Cryptographic Implementation:
 1. **Bank card chip**
 EMV chips, which contain encrypted payment information, are used in modern debit and credit cards.
-The chip uses secure methods (such RSA, DES, or ECC) to perform offline cryptographic authentication when it is put into a payment terminal, ensuring that the card is authentic and hasn't been cloned.
+The chip uses secure methods (such as RSA, DES, or ECC) to perform offline cryptographic authentication when it is put into a payment terminal, ensuring that the card is authentic and hasn't been cloned.
 2. **Device Encryption**
-As i have a macbook, apple uses a full-disk encryption technology which is file vaults. FileVault operates offline and protects all files, documents, and system data by encrypting the whole internal drive using XTS-AES-128 with a 256-bit key. The data cannot be accessed without my recovery key or login password, even if the laptop is stolen and the SSD is taken out. Data is always encrypted while it's at rest, not simply when the device is linked to a network.
+As i use macbook, apple uses a full-disk encryption technology which is file vaults. FileVault operates offline and protects all files, documents, and system data by encrypting the whole internal drive using XTS-AES-128 with a 256-bit key. The data cannot be accessed without my recovery key or login password, even if the laptop is stolen and the SSD is taken out. Data is always encrypted while it's at rest, not simply when the device is linked to a network.
 ### Analysis:
 To protect data even when devices are not connected to the internet, offline cryptography is crucial and plays an important role in physical world. If a device is lost or stolen, full-disk encryption (such as FileVault) guarantees that private data cannot be accessed. Cryptographic algorithms are used by EMV chips to offer safe authentication and protect personal data.
 ### Evidence:
 To support this activity, i have taken the screenshots of fileVault, bank card chip and uploads in the evidence folder.
 
-##
+## Activity A7 - Discover cryptography used in modern networks
+### Description:
+In this activity, I explored how cryptography is used in modern networks to protect data while it is being transmitted between devices. Unlike offline cryptography, network cryptography focuses on securing communication over wireless and internet-based systems.
+### Identified Cryptographic Implementation:
+1. **Wi-Fi Encryption (WPA2/WPA3)**  
+Modern wireless networks use encryption protocols such as WPA2 (AES‑CCMP) or WPA3 (Simultaneous Authentication of Equals) to secure communication between devices and the router. This ensures that data transmitted over the network cannot be easily intercepted. WPA3 improves security by using more robust key exchange methods, making it harder to crack the Wi‑Fi password offline.
+2. **HTTPS/TLS Encryption**
+The fundamental protocol (used in HTTPS) combines symmetric (for data transmission) and asymmetric (for handshake) encryption to secure web surfing, email, and API communications.
+### Analysis:
+Modern networks use multiple layers of cryptographic protection. Wi-Fi encryption (WPA2/WPA3) secures the wireless communication channel, while TLS encryption protects the data being transmitted over the network. These layers work together to ensure that sensitive information remains secure from interception and unauthorized access. For this activity, i used the wireshark to capture the network traffic of secure website over the wifi and wifi uses WPA3. I observed the TLSv1.2/TLSv1.3 encrypted packets and Application Data (encrypted) which confirms that modern Wi‑Fi networks transport encrypted traffic.
+### Evidence:
+The screenshots of the wireshark capture and the Wifi security settings, i attached in the evidence folder.
+
+## Activity 9 - Discover privacy technique used online
+### Description:
 
 
 
