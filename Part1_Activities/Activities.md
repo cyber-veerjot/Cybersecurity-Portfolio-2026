@@ -138,11 +138,28 @@ By limiting access to areas and systems to only those who are authorized, these 
 ### Evidence:
 The evidences includes the photos of these devices in the evidence folder.
 
+## Activity A12 – Discover 5 unique offline security tools
+### Description:
+In this activity, I explored security tools that function without requiring internet connectivity.
+### Identified Security Tools:
+1. **Window Security Bars**
+Metal bars called window security bars are put on windows to keep people from breaking in. Particularly on ground-floor flats or windows that are easily accessible, they serve as a robust physical barrier.
+2. **Chain Lock**
+Installing a door chain lock on front doors is a straightforward physical security measure. It prevents complete access while permitting a door to be partially opened for identification. 
+3. **Fireproof Document Safe**  
+It is a security tool which protects the documents such as passports, ids, certificates from fire and heat damage even though it isn't a locking mechanism but still it keeps private documents safe from loss and damage.
+4. **Security Camera System (Local Recording)**  
+Instead of uploading video footage to the cloud, these cameras store footage locally on a physical device, such as a microSD card, Network Video Recorder (NVR), or Digital Video Recorder (DVR). This method improves privacy, does not require internet access, and does away with monthly subscription payments.
+5. **Security Seal / Tamper‑Evident Seal**
+Applying a security or tamper-evident seal on doors, containers, or packages—like ballot boxes, medicine, or freight—provides solid evidence in the event that tampering or unlawful access takes place. Rather than completely blocking access, these seals are intended to identify theft, contamination, or counterfeiting.
+### Analysis:
+These offline security technologies protect physical locations and belongings by constructing strong, internet-independent barriers. While window bars and chain locks prevent or prevent forced entry, fireproof safes shield important documents from physical damage like heat or fire. Local-storage security cameras enhance privacy because footage stay on the device instead than being uploaded online. By revealing illegal entrance attempts, tamper-evident seals aid in the detection of theft or interference. When combined, these offline technologies increase security since they rely on physical defense rather than digital systems, which allows them to continue operating even in the case of a network or power outage.
+### Evidence:
+For this activity, the photos are provided in the evidence folder.
 
-
-
-
-
+## Activity A13 - Discover 5 unique online security tools
+### Description:
+In this activity, I discovered the tools that enhance security in online environments.
 
 
 
