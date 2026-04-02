@@ -179,9 +179,76 @@ The screenshots for each tool are in the evidence folder.
 ## Activity A15 - Discover 5 recent security incidents
 ### Description:
 I looked over five recent global cybersecurity issues for this assignment. I documented who was impacted, what transpired, what systems or data were affected, and what lessons could be learned from each occurrence.
+### Identified Security Incidents:
 1. **Change Healthcare Ransomware Attack (2026)**
-Change Healthcare, a significant U.S. healthcare payment processor, was breached by a ransomware group using an inadequately secured remote access system. The group then used ransomware after acquiring a significant amount of data. This demonstrated how crucial multi-factor authentication and network separation are for high-value systems, disrupting pharmacy and claims processes nationwide and exposing data for millions of patients.
-2. **
+Summary: In February 2024, a ransomware attack targeted Change Healthcare, a significant U.S. healthcare payment processor controlled by UnitedHealth Group. After gaining access through a weakly secured remote access system, the attackers moved laterally throughout the network, stole a significant amount of data, and encrypted vital systems that processed pharmaceutical and medical claim transactions.
+Impact: Many organizations were forced to use manual procedures as a result of the hack, which impacted pharmaceutical services and healthcare payments nationwide. Numerous patients' personal and medical information was compromised, and UnitedHealth's costs were expected to be in the billions.
+Lesson: The event demonstrates the significance of multi-factor authentication and robust access controls for remote access systems, as well as how ransomware attacks now combine service interruption with widespread data theft that has long-term financial and legal repercussions.
+2. **Ivanti VPN zero‑day exploitation (2025)**
+Impact: Early in 2025, Ivanti Connect Secure VPN appliances were found to have a number of previously unidentified vulnerabilities. In order to get around authentication and execute code on susceptible VPN gateways that were connected to the internet, attackers used these vulnerabilities in the wild.
+Impact: Attackers gained a foothold right at the network's edge, enabling them to install malware, steal credentials, and establish persistent backdoors in organizations that relied on these VPN equipment for remote access.
+Lesson:VPN and remote access devices are high-value targets that need to be promptly patched and continuously watched. Risk is significantly increased when such management interfaces are exposed directly to the internet.
+3. **Axios npm package supply‑chain attack (March 2026)**
+Sumamry: Two malicious versions of the well-known Axios JavaScript HTTP client package were released in March 2026 after a maintainer account on npm was hijacked. On computers that installed the package, these versions installed a phony dependency that downloaded and executed a remote access Trojan via a post-install script.
+Impact: Due to the widespread use of Axios, any server, build pipeline, or developer workstation that installed the malicious versions during the impacted time may have been backdoored, revealing credentials, API keys, and other secrets and perhaps resulting in additional breaches in downstream applications.
+Lesson: This instance demonstrates how malware can spread throughout the software supply chain from a single corrupted open-source requirement. It emphasizes the necessity of restricting the automated execution of install scripts, carefully reviewing and monitoring dependency updates, and implementing robust security on maintainer accounts (such as multi-factor authentication).
+4. **Qantas customer data breach (2025)**
+Summary: Qantas revealed that a hacked third-party system linked to its CRM platform allowed hackers to obtain frequent-flyer user data. Numerous loyalty accounts were affected by the breach.
+Impact: Names and contact information for airline passengers were among the exposed data, raising the possibility of targeted phishing and social engineering attacks that appear as Qantas or associated businesses.
+Lesson: This case illustrates how, even in situations where the primary organization's systems are reasonably safe, third-party and supply-chain vulnerabilities can disclose customer data. It emphasizes the necessity of strict control over integrations with outside sources and robust vendor-risk management.
+5. **Large credential dump (around 16 billion passwords, 2025)**
+Summary:Security experts discovered that infostealer malware records were being discussed on criminal forums, and a massive collection of almost 16 billion credentials was assembled from prior data breaches. Passwords and email addresses were included in several of the submissions.
+Impact:Because many users continued to use the same passwords on many websites, this dump made it much simpler for attackers to launch credential-stuffing attacks against numerous online services.
+Lesson: The event demonstrates why password managers are crucial, why users should never reuse passwords, and why multi-factor authentication is required to secure accounts even in cases where credentials are compromised.
+### Analysis:
+The exploitation of remote access, the compromising of third-party or open-source components, and the misuse of huge collections of credentials that have been obtained are common patterns among these instances. This highlights the significance of multi-factor authentication, prompt edge device patching, cautious vendor and software dependency management, and improved user password habits.
+### Evidence:
+The supporting documents are in the evidence folder.
+
+## Activity A16 - Discover 3 local security incidents
+### Description:
+In this activity, I explored cybersecurity incidents that occurred in Australia.
+### Identified Security Incidents:
+1. **University of Western Australia password breach (Aug 2025)**
+Summary: UWA reported a cyber incident in which hackers gained access to systems that held staff, student, and visitor passwords. As a precaution, the institution reset all accounts. 
+Impact: Everyone had to change their password, and until the reset was finished, they were unable to use online services like email, LMS, and VPN.  
+Lesson: Universities need to keep a careful eye on their authentication systems, enforce multi-factor authentication and strong password policies, and have a clear process in place for promptly revoking and resetting credentials in the event of a breach.
+2. **Noosa Shire Council cyber fraud (Dec 2024, disclosed 2025)**
+Summary: In the 2024 Christmas period, scammers deceived the Noosa Shire Council in Queensland into transferring council payments to fake bank accounts by using persuasive emails and documents.
+Impact: Before some money was recovered, the council lost almost $2 million in ratepayer payments; nevertheless, no personal information or internal IT systems were directly compromised.
+Lesson: Strict verification procedures for payment adjustments and frequent staff training to identify unusual requests are necessary since social engineering and payment redirection schemes can still be successful even in secure systems.
+3. **University of Sydney code library breach (Dec 2025)**
+Summary:The University of Sydney reported that the site was pulled offline for an inquiry after hackers gained access to an internal online code library used by researchers and employees.  
+Impact: Teams had to inspect systems that used the impacted code and rotate any exposed credentials when some projects experienced a temporary loss of access to their code repository.  
+Lesson: Code repositories require strong access controls, secret management, and frequent security evaluations since they frequently include sensitive data and are valuable targets.
+### Analysis:
+These examples demonstrate the vulnerability of local Australian organizations of various kinds, including a council and universities, to cyber threats that target development tools, business processes, and passwords. They point out that rather than using only technical exploits, attackers frequently succeed through social engineering, compromised secrets, or poor authentication. In general, they emphasize the necessity of robust identity controls (passwords, MFA), safe code and credential management, and well-thought-out procedures with employee training to identify fraud and promptly address security breaches.
+### Evidence:
+the supporting documents are in the evidence folder.
+
+## Activity A17 - Discover 10 different types of locks in use
+### Description:
+For this exercise, I searched around my house, the university, and public areas to find 10 various types of physical locks and how they are utilized for security.
+### Identified different types of locks in use:
+1. **Pad lock**
+A portable lock with a shackle that fastens to gates, lockers, or chains. typical for bike chains, barns, and lockers. 
+2. **Deadbolt lock**
+Strong door locks, typically seen on external home or apartment doors, have a robust metal bolt that glides into the door frame.
+3. **Knob Lock**
+For basic security, inside office or classroom doors frequently include a lock integrated into the handle.
+4. **Lever lock**
+A lever lock is a kind of door lock that offers security by requiring a code or key to open and unlock the door.
+5. ****
+
+6. **
+
+
+
+
+
+
+
+
 
 
 
