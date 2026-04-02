@@ -159,11 +159,29 @@ For this activity, the photos are provided in the evidence folder.
 
 ## Activity A13 - Discover 5 unique online security tools
 ### Description:
-In this activity, I discovered the tools that enhance security in online environments.
+In this activity, I discovered the tools that enhance security in online environments by searching in google.
+### Identified Security Tools:
+1. **Virus Total**
+A free web service that allows you to submit files or URLs for scanning by several threat intelligence feeds and antivirus engines.
+2. **Have I Been Pwned (HIBP)**
+A service that allows users to see if known data breaches contain their email addresses and also tells to change passwords immediately if their email addresses contains in the known breaches.
+3. **Cloudflare DNS (1.1.1.1) Security**
+Uses a secure DNS resolver to protect users by blocking harmful websites, phishing domains, and malware.
+4. **Multifactor Authenticator App**
+My internet accounts are protected with an authenticator program that creates time-based one-time passwords (TOTPs). I type both my password and the app code when I log into a protected account, which keeps me safe even if my password is stolen.
+5. **Google Password Checkup**
+This free tool looks for weak, repeated, or compromised passwords within Chrome or your Google account.
+### Analysis:
+By screening for malware, identifying exposed credentials, blocking dangerous websites, and bolstering account security, these online security solutions assist users in defending themselves against online threats. While password checkers and authenticator applications lessen the likelihood of accounts being stolen, tools like VirusTotal and Cloudflare DNS stop harmful content from reaching the user. When combined, they lower dangers like phishing, data breaches, and illegal access while also making online activities safer.
+### Evidence:
+The screenshots for each tool are in the evidence folder.
 
-
-
-
+## Activity A15 - Discover 5 recent security incidents
+### Description:
+I looked over five recent global cybersecurity issues for this assignment. I documented who was impacted, what transpired, what systems or data were affected, and what lessons could be learned from each occurrence.
+1. **Change Healthcare Ransomware Attack (2026)**
+Change Healthcare, a significant U.S. healthcare payment processor, was breached by a ransomware group using an inadequately secured remote access system. The group then used ransomware after acquiring a significant amount of data. This demonstrated how crucial multi-factor authentication and network separation are for high-value systems, disrupting pharmacy and claims processes nationwide and exposing data for millions of patients.
+2. **
 
 
 
