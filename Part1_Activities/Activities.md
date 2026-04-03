@@ -233,18 +233,29 @@ For this exercise, I searched around my house, the university, and public areas 
 1. **Pad lock**
 A portable lock with a shackle that fastens to gates, lockers, or chains. typical for bike chains, barns, and lockers. 
 2. **Deadbolt lock**
-Strong door locks, typically seen on external home or apartment doors, have a robust metal bolt that glides into the door frame.
+Strong door locks, seen on home or apartment doors, have a robust metal bolt that glides into the door frame.
 3. **Knob Lock**
 For basic security, inside office or classroom doors frequently include a lock integrated into the handle.
 4. **Lever lock**
 A lever lock is a kind of door lock that offers security by requiring a code or key to open and unlock the door.
-5. ****
+5. **Bike U‑lock / D‑lock**
+Bicycle frames are fastened to racks or poles using a stiff U-shaped metal lock that is resistant to cutting and levering.
+6. **Cable lock**
+Bicycles, scooters, and equipment can be fastened to permanent objects using flexible steel cables with integrated or separate locks.
+7. **Combination Lock**
+Padlocks, which are frequently found on school and gym lockers, unlock using a spinning dial or numbered wheels rather than a key.
+8. **Lever Latch**
+Often used on internal passage doors, a lever handle with a latch keeps a door closed 
+9. **Window lock with thumb‑turn**
+A lock installed on a sliding door or window that secures the panel so it cannot be opened from the outside using a thumb-turn and occasionally a key.
+10. **Barrel bolt lock**
+A straightforward surface-mounted lock that manually inserts a straight metal bolt into a little catch plate on the frame. By manually sliding the bolt across to keep the door closed, it is frequently used on internal doors, gates, cabinets, and bathroom doors to provide additional security or privacy.
+### Analysis:
+The level of physical security offered by various lock types varies based on their design and intended purpose. While some locks, like knob locks and barrel bolts, offer minimal security or privacy, others, like deadbolts and U-locks, provide robust protection against forced entrance. By restricting physical access, using various lock types helps secure windows, doors, bicycles, and personal items. When combined, these locks provide several levels of security that lower the possibility of theft and unwanted access in residences, public areas, and educational institutions.
+### Evidence:
+The all photos of locks are in the evidence folder.
 
-6. **
-
-
-
-
+##
 
 
 
