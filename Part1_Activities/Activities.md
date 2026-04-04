@@ -380,7 +380,44 @@ Without specific tools, it can be challenging to distinguish AI-generated photos
 ### Evidence:
 The picture are in the evidence folder.
 
-## Activity A
+## Activity A28 - Implement a security solution of your choice and put it on your GitHub
+### Description:
+I used Python to create a straightforward security solution for this exercise, which I then submitted to GitHub. The project is a strength tester for passwords.
+### Implementation of Security Solution:
+I used Python to create a password strength checker. The software evaluates a password according to its length, complexity, and variety of characters. It offers suggestions to assist users strengthen weak passwords.
+### How It Works:
+The script analyses a password based on:
+- Length
+- Uppercase letters
+- Lowercase letters
+- Numbers
+- Special characters
+### Analysis:
+Protecting user accounts requires strong passwords. By promoting improved password practices, this security solution helps in preventing attacks like brute-force and credential-stuffing. Putting this method into practice shows how fundamental programming can greatly enhance cybersecurity.
+### Evidence:
+The python file is uploaded in the evidence folder.
+
+### Activity A25 - Design and implement a privacy-preserving technique for an appropriate application
+### Description:
+In order to complete this task, I created and put into practice a privacy-preserving method for a customer account management application that requires the safe presentation of private information without complete disclosure.
+### Implementation:
+I used Python to build a data masking approach. In order to prevent sensitive information from being totally exposed, the application accepts personal data, such as phone numbers and email addresses, and presents it in a masked manner.
+For example:
+testuser@gmail.com → te****@gmail.com
+9876543210 → ******3210
+The program works correctly and produces masked output when executed.
+### Analysis:
+A popular privacy-preserving method in real-world applications including banking platforms, healthcare systems, and customer support portals is data masking. It lessens the exposure of sensitive data while enabling systems to operate normally.
+In the context of this application, masking guarantees:
+- Support personnel can identify accounts without having access to all personal information.
+- There is less chance of unintentional disclosure.
+- Even if unauthorized people are watching the screen, privacy is maintained.
+This method follows to the data minimization principle, which specifies that systems should only reveal the bare minimum of personal information. Data masking at the application level enhances user confidence and is consistent with privacy-by-design best practices.
+### Evidence:
+The python file and output is in the evidence folder.
+
+
+
 
 
 
