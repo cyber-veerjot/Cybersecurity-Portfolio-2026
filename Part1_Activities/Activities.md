@@ -67,7 +67,7 @@ Cryptography ensures confidentiality and integrity of data. It prevents attacker
 ### Evidence:
 i captured the screenshots of the uwa website to show the certificates and TLS Encryption and uploaded in the evidence folder.
 
-## Activity A6 - Discover cryptographic implementation used offline.
+## Activity A6 - Discover cryptographic implementation used offline
 ### Description:
 In this activity, I explored how cryptography is used offline to protect data without requiring an internet connection. Encryption is used by many common tools, cards, and systems to safely store and safeguard private data even while they are not in use.
 ### Identified Cryptographic Implementation:
@@ -255,7 +255,93 @@ The level of physical security offered by various lock types varies based on the
 ### Evidence:
 The all photos of locks are in the evidence folder.
 
-##
+## Activity A18 - Discover two hallucination cases when using a generative AI system
+### Description:
+I investigated how generative AI systems might occasionally generate inaccurate results, or "hallucinations," for this exercise. When an AI model provides confident answers that are incorrect because of misunderstandings, wrong assumptions, or inadequate context, this is known as an AI hallucination. As I worked on my cybersecurity portfolio, I directly interacted with a generative AI system and discovered three instances of hallucinations and one discover online.
+### Identified Hallunication cases:
+1. ** Case 1 - Incorrect Identification of Web Browser**
+The AI recognized that I was using Safari when I uploaded a screenshot of my web browser displaying security information. This information was inaccurate, though, as the screenshot's browser was actually Google Chrome. Without enough proof, the AI made this claim without seeking clarification. This is an instance of a contextual hallucination, in which the AI confidently came to the wrong conclusion based on few contextual signals after misinterpreting visual or interface features.
+2. **Misinterpretation of GitHub Repository Structure**
+In another instance, I provided an explanation of my GitHub repository structure along with a screenshot. The AI falsely reported that my part1_activities folder contained two README.md files. In actuality, the part1_activities folder included no duplicate README.md and only one README.md at the repository root. This happened as a result of the AI misinterpreting the file structure and assuming false information rather than asking for clarification. When an AI confidently misinterprets organizational information from a screenshot, it is called a contextual or structural hallucination.
+3. **Fabrication of Academic References (Published Case)**
+Emsley (2023) describes a documented incidence of hallucinations in which ChatGPT produced realistic-looking but nonexistent academic references when requested to back up a scientific claim. None of the fake publications could be located in PubMed or other scholarly databases, despite having plausible titles, authors, and journals. This is an example of a factual hallucination, demonstrating how AI can provide convincing but inaccurate information that could mislead people if outputs are not validated.
+### Analysis:
+These examples demonstrate that AI hallucinations can take many different forms, such as factual, structural, and contextual errors. Responses may still be inaccurate even if they seem assured and competent. This emphasizes how crucial it is to assess and validate AI-generated results critically, particularly in technical and scholarly contexts like cybersecurity research and documentation.
+### Evidence:
+The all supporting documents and references are included in the evidence folder.
+
+## Activity A19 - Join a CS/DS/cybersecurity club
+### Description:
+In order to interact with students who are interested in cybersecurity, computer science, and digital safety, I joined a cybersecurity group at my institution. Students can study cooperatively, stay updated on cybersecurity issues, and take part in conversations or activities regarding the discipline by joining a club.
+### PArticipation and learning
+I became a member of the University Computer Club, or UCC. I registered for membership and interacted with the club via its internet channels. I also joined the Discord server to take part in conversations, get information, and interact with other members, and I followed the club on Instagram to keep up with announcements and activities. I was able to access cybersecurity-related posts, conversations, announcements, and other educational opportunities that the club published via various channels. Members of the Discord community can interact, exchange information, and pose cybersecurity-related queries.
+### Analysis:
+Participating in a cybersecurity club fosters knowledge of practical cybersecurity issues outside of the classroom. It promotes cooperation, information exchange, and interaction with colleagues who share similar academic and career goals. It is simpler to stay updated, ask questions, and interact with cybersecurity content in a casual learning setting thanks to online platforms like Instagram and Discord.
+### Evidence:
+The proof of Membership, discord and instagram accounts are in evidence folder.
+
+## Activity A20 - Participate in a discussion with your friends about cybersecurity event
+### Description:
+I took part in an in-person conversation on a real-world cybersecurity incident with my friend as a part of this activity. Understanding how cyberattacks happen, who perpetrates them, and how they affect businesses and users were the main topics of debate.
+### Discussion:
+We talked about the Ticketmaster data leak, which was allegedly connected to the ShinyHunters hacker collective. During the conversation, we discussed:
+- When the assault took place and how it was found
+- The attack's methodology, includes data theft and illegal access
+- Ticketmaster's massive consumer data storage is the reason it was targeted.
+- ShinyHunters' identity and reputation as a cybercrime organization
+- ShinyHunters has previously committed other significant breaches.
+- Attack methods, including database leaks, data breaches, and the sale of stolen data on internet forums
+We also talked about the consequences of the breach, including identity theft, privacy issues for users, and the significance of robust security measures like data encryption and multi-factor authentication.
+### Analysis:
+Talking about actual cybersecurity issues with friends increases understanding of how cyberattacks happen in real-world settings. It promotes critical thinking regarding the reasons for attacks, security flaws, and the significance of safeguarding personal data. I now have a better understanding of how organized cybercrime groups function and why businesses with sensitive user data are frequently targeted.
+### Evidence:
+For this activity, we have a voice recording which is uploaded in the evidence folder.
+
+## Activity A21 - Participate in an online cybersecurity discussion
+### Description:
+For this activity, I participated in online discussions about cybersecurity in public internet forums. These sites allow users to ask questions, exchange stories, and engage with others from diverse backgrounds regarding cybersecurity challenges.
+### Discussions:
+I used my Reddit account, u/Bubbly-Psychology387, to take part in two discussions. As a student at university, I asked a question in r/cybersecurity about how to advance my defensive (blue-team) abilities beyond simple hashing and Python. In response, a security expert advised me to start by developing solid IT foundations, including networking, operating systems, and authentication.
+I posted a request for websites or online video channels for cybersecurity instruction in r/learnprogramming. Another user replied with a link to a free online resource that I could use to get started. These discussions showed me that online communities may provide useful resources for beginning cybersecurity education as well as guidance on what to study (IT fundamentals).
+### Analysis:
+Engaging in online cybersecurity forums exposes students to real-world security issues and offers helpful guidance from experienced professionals. These conversations encourage lifelong learning and offer perspectives that aren't typically addressed in conventional education.
+### Evidence:
+The screenshot of reddits are in the evidence folder.
+
+## Activity A30 - Complete an online cybersecurity module
+### Description:
+I finished the TryHackMe module "Module 1: Start your Cyber Security Journey and Module 2: Linux fundamentals part 1," which focuses on basic Linux, web hacking, defensive security, networking. These rooms are a component of TryHackMe's basic learning path, which aims to provide new students with fundamental cybersecurity knowledge. This interactive lesson teaches useful cybersecurity skills through challenges and guided virtual machines.
+### Modules Content:
+I observed basic examples of attacks and defenses, learnt about the key components of cybersecurity (offensive vs. defensive security), and investigated several career options in cyber in Start Your Cybersecurity Journey. I worked through a number of rooms during the module that addressed issues like command-line basics on the terminal, virustotal, and there other given prompts. I set up a Linux system in the browser and practiced fundamental terminal operations including ls, cd, echo, whoami, and basic file navigation and search in Linux Fundamentals Part 1. I completed the challenges by following the directions, executing the necessary commands or tools, responding to the questions in the room, and capturing flags.
+### Skills and tools learned:
+This program taught me how to scan a target, use virustotal, shodan.io, locate open services, find and exploit simple vulnerabilities, or analyze logs to spot malicious activity and gave me practice with tools like Linux command line. My confidence in working on a Linux command line or terminal, following to a systematic approach, and recording my actions while resolving security issues has increased as a result.
+### Reflection:
+After finishing this TryHackMe lesson, I realized how crucial practical experience is to comprehending cybersecurity principles rather than merely reading theory. Additionally, I discovered that taking thorough notes during each lesson makes it simpler to duplicate the methods later on and to describe my methodology in labs, tests, and future job applications.
+### Evidence:
+all the screenshots of completing module are in the folder.
+
+### Activity A4 - Discover a vulnerable website
+### Description:
+In this exercise, I examined a publically available website (https://www.captainfinishing.ca) for possible security flaws using OWASP ZAP (Zed Attack Proxy).
+### Identified Vulnerabilities:
+1. **Content Security Policy (CSP) Header Not Set**
+Some responses lacked a Content-Security-Policy header, such as sitemap.xml. The site owner can limit the sources of scripts, styles, and other content the browser can load by using a CSP header. The impact of content-injection attacks is increased in the absence of CSP since the browser is more likely to execute JavaScript if an attacker is able to inject it (for instance through an XSS vulnerability).
+2. **Missing Anti-Clickjacking Header (X-Frame-Options)**
+Additionally, ZAP identified "Missing Anti-clickjacking Header" (no CSP frame-ancestors or X-Frame-Options). Clickjacking attacks, in which a user is tricked into clicking hidden buttons or links inside an iframe, are made possible by the absence of these headers, which allow the website to be framed by another domain. The website would not be embedded on untrusted pages if X-Frame-Options: DENY or a suitable frame-ancestors policy was set.
+3. **Subresource Integrity (SRI) Attribute Missing**
+Subresource Integrity was not used by an external stylesheet that was loaded from fonts.googleapis.com, according to another alert. For an external script or style, SRI enables the developer to provide a cryptographic hash so the browser can confirm it hasn't been changed. Without SRI, malicious code could be placed onto the website without the browser noticing if the third-party CDN is compromised.
+### Analysis:
+Common security misconfigurations, one of the most common reasons for online exploitation, are demonstrated by these vulnerabilities. Although missing HTTP security headers does not necessarily indicate that a website has been compromised, they greatly raise the risk by making attacks like content injection, clickjacking, and XSS possible. This exercise emphasizes the significance of safe server-side configuration and demonstrates how defensive technologies, such as OWASP ZAP, can find vulnerabilities before they are exploited.
+### Evidence:
+the screenshot of ZAP for scanning the website are in the evidence folder.
+
+
+
+
+
+
+
+
 
 
 
