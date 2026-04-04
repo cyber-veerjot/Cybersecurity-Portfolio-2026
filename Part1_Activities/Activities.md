@@ -43,8 +43,6 @@ For this activity, I explored the security measures used in my home to protect p
 the main entrance has the cameras installed so that the entrance can be monitored through the security room
 2. **Physical Locks**  
 to prevent unauthorised entry, the apartment's main door has a deadbolt lock with attached chain which ensures double security.
-3. **Wifi Security**
-Our home network uses a strong password and encryption so neighbours cannot connect and see our traffic.
 4. **Device Security**
 Phones and laptops use PINs or biometrics to protect personal data if a device is lost or stolen.
 ### Analysis:
@@ -335,6 +333,54 @@ Common security misconfigurations, one of the most common reasons for online exp
 ### Evidence:
 the screenshot of ZAP for scanning the website are in the evidence folder.
 
+## Activity A23 - Enhance the cybersecurity at home
+### Description:
+For this exercise, I improved network access controls, device security, and account protection to strengthen the cybersecurity of my home environment. The emphasis was on lowering the possibility of unwanted access and safeguarding household members' personal information.
+### Security Improvements Implemented:
+1. **Multi-Factor Authentication (MFA)**
+First, I enabled multi-factor authentication (MFA) and set up an authenticator software to help my uncle safeguard his critical accounts. This makes account compromise considerably more difficult since even if someone were to guess or steal his password, they would still require a time-based code from his phone to log in.
+2. **Device Security (Passwords and Biometrics)**  
+Passwords and biometrics (such fingerprint or face recognition) are used to secure our phones and PCs. This makes it extremely harder for someone else to unlock a device and access personal information if it is lost or stolen.
+3. **Wi-Fi Security Enhancements**
+Strong passwords and other authentication procedures are used to secure the home Wi-Fi network. To ensure that only authorized users may join, the network must be properly authenticated.
+### Analysis:
+Improving home cybersecurity helps in defending shared systems and individuals against online attacks. Even in the event that passwords are stolen, enabling MFA lowers the chance of account breach. In the event that a device is lost or stolen, unauthorized access to personal data is prevented by using biometrics and strong device passwords. Using identity-based authentication to secure Wi-Fi access gives the home network an additional layer of protection. When combined, these actions strengthen and secure the cybersecurity environment at home.
+### Evidence:
+All screenshots are in the folder of evidence.
+
+### Activity A24 - Teach your family about cybersecurity topic of your choice
+### Description:
+In order to increase a family member's awareness of online hazards, I taught them about a cybersecurity issue for this assignment. Since many real-world attacks rely on taking advantage of human behavior rather than technical flaws, it is crucial to teach cybersecurity concepts to non-technical users.
+### Teaching Details:
+Since phishing schemes are among the most frequent sources of online fraud and account compromise, I decided to utilize them as the cybersecurity theme.
+i explained: 
+- What is phishing, and how do attackers pretend to be trustworthy businesses like banks, delivery services, or government agencies?
+- False "account warning" or "package delivery" emails are common examples of phishing.
+- Poor grammar, odd links, hurry, and false sender addresses are warning signs to be aware of.
+- Refusing to open links in unexpected messages, manually typing website addresses, and never transferring passwords or one-time verification codes are all safe practices to follow.
+Additionally, I described how multi-factor authentication (MFA) can lower risk even in the event that a password is compromised.
+### How I Delivered It:
+I explained this subject orally using simple language and real-world examples. I encouraged my uncle to ask questions and told them to get in touch with me if they had any concerns about any odd emails or communications.
+### Analysis:
+Raising awareness of phishing can help lower the likelihood that regular people will fall victim to online fraud. Instead of using technological exploitation, a lot of cybersecurity assaults use social engineering. Family members are better equipped to recognize risks and safeguard their personal information when phishing indicators and safe response techniques are explained. I was also able to practice explaining technical security concepts in an understandable manner thanks to this exercise.
+### Evidence:
+My voice recording is in the evidence folder.
+
+## Activity A29 - Analyse AI-generated media using a detection tool
+### Description:
+In this task, I examined a freely accessible AI-produced media to assess its authenticity. As generative AI becomes more prevalent, identifying altered or AI-created content is crucial for stopping misinformation, fraud, and identity theft.
+### Media Selected:
+I chose an image from the internet that seemed realistic but might have been produced by artificial intelligence.
+### Tool Used:
+- HiveModeration AI Detection Tool
+### Detecting Media:
+Hive Moderation conducted a detailed examination of the video, frame by frame, and determined it to be probably AI-generated, with a confidence level of 99.9%. The tool also noted that the content revealed characteristics typical of AI-generated visual media.
+### Analysis:
+Without specific tools, it can be challenging to distinguish AI-generated photos and videos from real content due to their similar resemblance. Visual patterns, inconsistencies, and artifacts created by generative AI models are analyzed using detection tools such as Hive Moderation. My understanding of how deepfakes and synthetic media can be identified and the importance of verification tools for preserving security and trust in online settings has improved as a result of this exercise.
+### Evidence:
+The picture are in the evidence folder.
+
+## Activity A
 
 
 
