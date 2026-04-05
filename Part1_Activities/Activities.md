@@ -21,8 +21,8 @@ These observations were made during my daily visits to campus, including the lib
 ### Description:
 To do this activity, i explored the bus station, shopping centre and city as there are multiple security systems implemented. These systems are designed to protect people from potential harm and prevent crimes.
 ### Identified Security Concepts:
-1. **Surveillance Systems (CCTV Cameras)**
-CCTV cameras in public areas such as bus stations and shopping centres are used to monitor large crowds and detect suspicious behaviour.
+1. **Information Centre**
+I watched the information desk at a nearby bus station, where employees assist travelers with schedules, route details, and ticket inquiries. People don't need to browse the entire station for information because this desk serves as a focal point for inquiries and assistance. Because travelers may promptly ask employees for assistance, report suspicious activity, or obtain instructions rather than going into prohibited areas, it enhances safety and security.
 2. **Security Patrols**
 Security guards patrol areas such as bus stations, city to maintain order and respond to incidents.
 3. **Emergency Systems**
