@@ -176,7 +176,7 @@ The screenshots for each tool are in the evidence folder.
 ### Description:
 I looked over five recent global cybersecurity issues for this assignment. I documented who was impacted, what transpired, what systems or data were affected, and what lessons could be learned from each occurrence.
 ### Identified Security Incidents:
-1. **Change Healthcare Ransomware Attack (2026)**
+1. **Change Healthcare Ransomware Attack (2024)**
 Summary: In February 2024, a ransomware attack targeted Change Healthcare, a significant U.S. healthcare payment processor controlled by UnitedHealth Group. After gaining access through a weakly secured remote access system, the attackers moved laterally throughout the network, stole a significant amount of data, and encrypted vital systems that processed pharmaceutical and medical claim transactions.
 Impact: Many organizations were forced to use manual procedures as a result of the hack, which impacted pharmaceutical services and healthcare payments nationwide. Numerous patients' personal and medical information was compromised, and UnitedHealth's costs were expected to be in the billions.
 Lesson: The event demonstrates the significance of multi-factor authentication and robust access controls for remote access systems, as well as how ransomware attacks now combine service interruption with widespread data theft that has long-term financial and legal repercussions.
