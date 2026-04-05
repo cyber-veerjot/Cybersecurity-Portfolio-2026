@@ -6,8 +6,8 @@ I explored and identified various security concepts implemented across my univer
 ### Identified Security Concepts:
 1. **Surveillance Systems (CCTV Cameras)**
 CCTV cameras are installed in lecture halls, libraries, entrances, and outdoor areas. These cameras continuously monitor activity and help deter theft, vandalism, and suspicious behaviour.
-2. **Access Control Systems (Student ID Cards)**  
-Certain rooms require student ID card access. This ensures that only authorised students and staff or who has a card  can enter restricted areas such as labs or staff-only zones.
+2. **Access Control Systems (Staff Only)**  
+A door in a workplace that reads "Staff Only/Authorized Personnel Only." The sign makes it very obvious that only employees are permitted inside after that point. By restricting access to just those who are authorized, this straightforward physical access control helps safeguard critical data and back-office spaces.
 3. **Security On-Campus**  
 Campus security personnel are present around campus, especially during late hours and there’s also an emergency contact present everywhere. They monitor activities, respond to incidents, and ensure overall safety.
 4. **Alarm Systems**  
