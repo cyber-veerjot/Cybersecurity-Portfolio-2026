@@ -338,13 +338,13 @@ the screenshot of ZAP for scanning the website are in the evidence folder.
 For this exercise, I improved network access controls, device security, and account protection to strengthen the cybersecurity of my home environment. The emphasis was on lowering the possibility of unwanted access and safeguarding household members' personal information.
 ### Security Improvements Implemented:
 1. **Multi-Factor Authentication (MFA)**
-First, I enabled multi-factor authentication (MFA) and set up an authenticator software to help my uncle safeguard his critical accounts. This makes account compromise considerably more difficult since even if someone were to guess or steal his password, they would still require a time-based code from his phone to log in.
+Initially, I set up my iPhone's authenticator app to only open after passing Face ID. This implies that even if someone were to gain physical access to my phone, they would not be able to view my MFA codes without my face because they are all stored inside an app that requires biometric identification. Face ID is supported by iOS for auto filling passwords and unlocking secure apps. I told my uncle to set MFA and then also setup same thing on his phone.
 2. **Device Security (Passwords and Biometrics)**  
-Passwords and biometrics (such fingerprint or face recognition) are used to secure our phones and PCs. This makes it extremely harder for someone else to unlock a device and access personal information if it is lost or stolen.
-3. **Wi-Fi Security Enhancements**
-Strong passwords and other authentication procedures are used to secure the home Wi-Fi network. To ensure that only authorized users may join, the network must be properly authenticated.
+To prevent someone from just disabling connectivity or turning off the phone without unlocking it, I finally shut down my Control Centre and device access. When the device is locked, iOS lets you limit Control Centre and other features by requiring a Face ID or passcode verification before using those controls.
+3. **Wi-Fi Password Security Enhancements**
+Every time I need to see my saved Wi-Fi password, I rely on Face ID. My home Wi-Fi password is secure and cannot be viewed by anyone who does not pass biometric checks because the Wi-Fi password screen on both my uncle’s and my phone only display the password after Face ID or passcode verification.
 ### Analysis:
-Improving home cybersecurity helps in defending shared systems and individuals against online attacks. Even in the event that passwords are stolen, enabling MFA lowers the chance of account breach. In the event that a device is lost or stolen, unauthorized access to personal data is prevented by using biometrics and strong device passwords. Using identity-based authentication to secure Wi-Fi access gives the home network an additional layer of protection. When combined, these actions strengthen and secure the cybersecurity environment at home.
+Improving home cybersecurity helps in defending shared systems and individuals against online attacks. If a device is lost or stolen, unauthorized access to personal data is prevented by using biometrics and strong device passwords. An additional layer of security is added to standard passwords by using Face ID to access the authenticator app and expose Wi-Fi credentials. Even if passwords are stolen, enabling MFA lowers the chance of account breach. Additionally, locking the Control Centre on the lock screen keeps my device and data safer by preventing someone from simply shutting down phone or cutting off connectivity. When combined, these actions strengthen and secure the cybersecurity environment at home.
 ### Evidence:
 All screenshots are in the folder of evidence.
 
