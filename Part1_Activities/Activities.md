@@ -8,8 +8,8 @@ I explored and identified various security concepts implemented across my univer
 CCTV cameras are installed in lecture halls, libraries, entrances, and outdoor areas. These cameras continuously monitor activity and help deter theft, vandalism, and suspicious behaviour.
 2. **Access Control Systems (Student ID Cards)**  
 Certain rooms require student ID card access. This ensures that only authorised students and staff or who has a card  can enter restricted areas such as labs or staff-only zones.
-3. **Physical Security (Security Guards)**  
-Campus security personnel are present around campus, especially during late hours. They monitor activities, respond to incidents, and ensure overall safety.
+3. **Security On-Campus**  
+Campus security personnel are present around campus, especially during late hours and there’s also an emergency contact present everywhere. They monitor activities, respond to incidents, and ensure overall safety.
 4. **Alarm Systems**  
 Emergency alarms are installed in buildings and can be triggered during dangerous situations such as fires or security threats.
 ### Analysis:
