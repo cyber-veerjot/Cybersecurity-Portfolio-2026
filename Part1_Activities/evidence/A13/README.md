@@ -6,5 +6,5 @@
 - Turn on MFA: https://www.cyber.gov.au/learn-basics/explore-basics/mfa
 - Google password checkups to check the weak passwords: https://passwords.google.com/
 - Cloudeflare DNS (1.1.1.1) Security provide users a high security: https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/
-### All activity expalined in Activities.md file.
+### All activity explained in Activities.md file.
 
