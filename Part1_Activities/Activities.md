@@ -39,8 +39,8 @@ These observations were made at the bus station, shopping centre, and city areas
 ### Description:
 For this activity, I explored the security measures used in my home to protect personal safety and private information.
 ### Identified Security Concepts:
-1. **Home Surveillance (Apartment Security)**
-the main entrance has the cameras installed so that the entrance can be monitored through the security room
+1. **Home Surveillance and Fence**
+the main entrance has the cameras installed so that the entrance can be monitored through the security room and fence is installed all around the apartment.
 2. **Physical Locks**  
 to prevent unauthorised entry, the apartment's main door has a deadbolt lock with attached chain which ensures double security.
 4. **Device Security**
