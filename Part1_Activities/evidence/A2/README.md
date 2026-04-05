@@ -5,4 +5,5 @@
 - security guards also present there to patrol and monitored the things
 - there is also a control room for fire for safety
 - there is also a info centre at the bus station fo inquiries
+- street lights and road lights are also installed for visibility in the night
 ### The detailed explanation is in the Activities.md 
