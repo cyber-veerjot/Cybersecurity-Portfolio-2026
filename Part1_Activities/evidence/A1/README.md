@@ -4,4 +4,5 @@
 - Key Cards to enter in the rooms used by staff and students
 - Picture of Security numbers for any emergency taken in the law library
 - Alarm system install in the university
-The detailed explanation is in the Activities.md 
+- Security guards on the campus https://www.uwa.edu.au/about/campus-services/security-and-emergencies/security-services 
+### The detailed explanation is in the Activities.md 
