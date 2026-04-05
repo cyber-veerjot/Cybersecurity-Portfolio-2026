@@ -3,4 +3,5 @@
 - Surveillance Systems photograph captured in Bus station
 - Picture of Security numbers and emergency system installed for any emergency taken in the station
 - security guards also present there to patrol and monitored the things
+- there is also a control room for fire for safety
 ### The detailed explanation is in the Activities.md 
