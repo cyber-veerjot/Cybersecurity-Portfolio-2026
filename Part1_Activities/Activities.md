@@ -360,7 +360,7 @@ Additionally, I described how multi-factor authentication (MFA) can lower risk e
 ### How I Delivered It:
 I explained this subject orally using simple language and real-world examples. I encouraged my uncle to ask questions and told them to get in touch with me if they had any concerns about any odd emails or communications.
 ### Analysis:
-The risk that common people will become victims of online fraud can be reduced by increasing awareness of phishing. Many cybersecurity attacks employ social engineering rather than technology exploitation. When phishing indications and safe response procedures are explained, family members are better able to identify threats and protect their personal information. This project also gave me the opportunity to try communicating technical security ideas in a clear way
+The risk that common people will become victims of online fraud can be reduced by increasing awareness of phishing. Many cybersecurity attacks employ social engineering rather than technology exploitation. When phishing indications and safe response procedures are explained, family members are better able to identify threats and protect their personal information. This project also gave me the opportunity to try communicating technical security ideas in a clear way.
 ### Evidence:
 My voice recording is in the evidence folder.
 
