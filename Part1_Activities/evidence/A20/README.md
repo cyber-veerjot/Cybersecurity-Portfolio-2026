@@ -2,5 +2,5 @@
 ### This folder contains:
 - the voice recording of us for the event discussion
 - the photo of us as a proof
-All detailed explanation is in the Activities.md file.
+### All detailed explanation is in the Activities.md file.
 
