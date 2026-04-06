@@ -10,4 +10,4 @@
 - lever latch
 - witndow lock/thumb turn
 - barrel bolt lock
-All the detailed explanation for locks are in the Activities.md file. 
+### All the detailed explanation for locks are in the Activities.md file. 
