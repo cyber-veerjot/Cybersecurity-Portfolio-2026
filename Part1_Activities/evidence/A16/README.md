@@ -16,3 +16,4 @@ I also have some emails to proof the breach for UWA and presenting them as a evi
 - University of Sydney code library breach (dec 2025):
 1. https://www.sydney.edu.au/news-opinion/news/2025/12/18/notification-of-cyber-and-data-breach.html
 2. https://www.itnews.com.au/news/university-of-sydney-online-it-code-library-breached-622694 
+### All activity explained in Activities.md file.
