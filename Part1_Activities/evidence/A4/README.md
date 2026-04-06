@@ -4,4 +4,4 @@
 - Content security policy header not set in A4 (CSP)
 - Missing Anti-clickjacking header in the screenshot A4 - anti clickjacking
 - Missing of sub resource integrity attribute in the screenshot A4 - Subresource integrity
-All detailed explanation is in the Activities.md file.
+### All detailed explanation is in the Activities.md file.
