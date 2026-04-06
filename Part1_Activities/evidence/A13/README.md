@@ -4,7 +4,7 @@
 - have i been pawned to check the emails addresses: https://haveibeenpwned.com/
 - multifactor authenticator app for double security: https://www.cyber.gov.au/protect-yourself/securing-your-accounts/multi-factor-authentication
 - Turn on MFA: https://www.cyber.gov.au/learn-basics/explore-basics/mfa
-- Google password checkups to check the weak passwords: https://passwords.google.com/
+- Google password checkups to check the weak passwords
 - Cloudeflare DNS (1.1.1.1) Security provide users a high security: https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/
 ### All activity explained in Activities.md file.
 
