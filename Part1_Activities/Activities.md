@@ -254,7 +254,7 @@ The all photos of locks are in the evidence folder.
 ## Activity A18 - Discover two hallucination cases when using a generative AI system
 ### Description:
 I investigated how generative AI systems might occasionally generate inaccurate results, or "hallucinations," for this exercise. When an AI model provides confident answers that are incorrect because of misunderstandings, wrong assumptions, or inadequate context, this is known as an AI hallucination. As I worked on my cybersecurity portfolio, I directly interacted with a generative AI system and discovered three instances of hallucinations and one discover online.
-### Identified Hallunication cases:
+### Identified Hallucination cases:
 1. ** Case 1 - Incorrect Identification of Web Browser**
 The AI recognized that I was using Safari when I uploaded a screenshot of my web browser displaying security information. This information was inaccurate, though, as the screenshot's browser was actually Google Chrome. Without enough proof, the AI made this claim without seeking clarification. This is an instance of a contextual hallucination, in which the AI confidently came to the wrong conclusion based on few contextual signals after misinterpreting visual or interface features.
 2. **Misinterpretation of GitHub Repository Structure**
