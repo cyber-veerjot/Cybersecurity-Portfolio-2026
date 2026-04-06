@@ -2,4 +2,4 @@
 ### It contains:
 - detection for the Ai video from the social media by the Hive Moderation.
 - the video which i used for the detection
-All the detailed explanation is in the Activites.md file.
+### All the detailed explanation is in the Activites.md file.
