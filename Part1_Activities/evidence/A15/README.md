@@ -22,3 +22,4 @@
 - Larger credential dump (around 16 billion passwords, 2025)
 1. https://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak/
 2. https://www.secpod.com/blog/story-of-cyberattack-16-billion-leaked-credentials-the-mega-leak/
+### All activity explained in Activities.md file.
