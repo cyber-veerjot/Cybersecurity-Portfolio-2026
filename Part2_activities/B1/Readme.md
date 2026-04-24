@@ -2,5 +2,17 @@
 ### Description:
 I found five typical poor or vulnerable security implementations that are still often utilised in real-world settings for this exercise. These illustrations show how inadequate security procedures can greatly raise the danger of cyberattacks and data leaks.
 ### Identified Weak / Vulnerable Implementations:
-1. **Open Public Wi-Fi Networks (No Encryption)**:
-
+1. **Reused password across multiple accounts**
+A friend or family member using the same email address and password on numerous websites, such as social media, shopping accounts, and email, is one example of a weak security practice that I have seen. This is risky because if one of those websites experiences a data breach and the password is compromised, hackers could attempt credential stuffing attacks on other services using the same email address and password. This kind of reusing credentials frequently results in account takeover across several platforms, which can compromise financial accounts, personal emails, and even identity theft.
+2. **Open Public Wi-Fi Networks (No Encryption)**
+Public Wi-Fi networks, like those found in coffee shops, gas stations, and shopping malls, frequently function without adequate encryption, which means they might not employ secure protocols like WPA2 or WPA3. For instance, free Wi-Fi provided at places like BP Australia stations may occasionally be insecure or improperly set up. Attackers can use packet sniffing tools to intercept network traffic because there is no encryption. Sensitive data, including usernames, passwords, and other personal information, could possibly be collected without the user's awareness, raising the possibility of illegal access and data breaches.
+3. **Lack of Multifactor Authenticator**
+Because of not using multi-factor authentication (MFA), systems that simply require a username and password for authentication lack an extra degree of protection. Without this additional verification step, attackers may easily obtain unauthorised access to accounts without any secondary authentication if login credentials were obtained due to phishing or data breaches.
+4. **Weak Password Policies**
+Weak password regulations enable users to construct short, easily guessed passwords, like "123456," or straightforward 8-character combinations of capital, lowercase, and numeric characters. These could seem safe, but they are not long enough or random enough and not using any special characters. Because of this, these passwords are very susceptible to dictionary and brute-force assaults, which makes it simpler for hackers to access accounts and systems without authorisation.
+5. **Missing Security Headers**
+Another weak security implementation, I discovered a website that lacks crucial security headers like the Content-Security-Policy (CSP) header by using a web security scanner. This is a bad implementation since the browser has fewer built-in defenses against attacks like clickjacking and cross-site scripting (XSS) without CSP and related headers, which makes it simpler for malicious or injected material to run in users' browsers.
+### Analysis:
+These inadequate security measures demonstrate how poor system setups and user behavior can raise cybersecurity threats. Technical flaws like open Wi-Fi and missing security headers expose systems to attacks, while problems like weak passwords, password reuse, and a lack of MFA make it simpler for attackers to obtain unauthorized access. In general, these flaws raise the possibility of system compromise and data breaches.
+### Evidence:
+The evidences contain screenshots of all the weak security implementations in this folder. 
