@@ -1,4 +1,4 @@
-## B3 - Discover 3 proactive security implementations in practice.
+## B3 - Discover 3 proactive security implementations in practice
 ### Description:
 I found three proactive security approaches in this exercise that prioritise ongoing monitoring, detection, and user education over merely responding to the incidents.
 ### Identified Proactive Security Implementations:
