@@ -1,7 +1,6 @@
 ## B3 - Discover 3 proactive security implementations in practice.
 ### Description:
 In order to detect and stop cyber attacks before they happen, I discovered three proactive security measures that are employed in real-world settings.
-
 ### Identified Proactive Security Implementations:
 1. **Security Information and Event Management (SIEM)**
 SIEM systems gather and examine logs from various sources, including networks, servers, and applications.
