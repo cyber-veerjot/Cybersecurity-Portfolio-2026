@@ -20,3 +20,4 @@ Why it's strong: TLS keeps hackers from intercepting or altering private informa
 ### Analysis:
 These robust security measures show how layered defenses can drastically lower cyber risk. Sensitive information is protected even in the event that one security layer fails thanks to methods like encryption, hashing, and MFA. Secure communication methods and automatic upgrades also lessen vulnerability to known flaws and network-based assaults. When combined, these actions improve overall cybersecurity posture and enhance system resilience.
 ### Evidence:
+For the evidence, this activity contains the screenshot of strong security implementations.
