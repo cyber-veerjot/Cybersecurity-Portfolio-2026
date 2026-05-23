@@ -3,7 +3,7 @@
 In this task, I pinpointed five robust security measures frequently used in real-world systems to safeguard users, data, and infrastructure. These measures exemplify effective cybersecurity practices that greatly decreased the likelihood of attacks and unauthorised entry.
 ### Identified Strong Security Implementation:
 1. **Multi‑Factor Authentication (MFA)**
-Many new platforms require a multi-factor authentication, which includes an extra verification step like biometric authentication or a one-time password.
+Many new platforms require a multi-factor authentication, which adds an extra verification step like biometric authentication or a one-time password.
 - Why it is robust: The chance of an account takeover is significantly decreased because attackers cannot access the account without the second factor, even if a password is compromised.
 2. **Strong Password Hashing (e.g., bcrypt)**
 Instead of storing passwords in plaintext, secure systems use cryptographic hashing techniques.
