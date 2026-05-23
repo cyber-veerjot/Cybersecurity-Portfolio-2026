@@ -13,7 +13,7 @@ WPA3 encryption is used in present-day wireless networks to safeguard network tr
 - Why it's strong: Compared to earlier Wi-Fi protocols, WPA3 offers better encryption and defense against brute-force attacks.
 4. **Automatic Security Updates**
 Applications and operating systems that apply security upgrades automatically prevent against known flaws.
-Why it is powerful: This stops attackers from utilizing known vulnerabilities and shortens the exposure time to exploits.
+- Why it is powerful: This stops attackers from utilizing known vulnerabilities and shortens the exposure time to exploits.
 5. **HTTPS with TLS Encryption**
 Secure websites encrypt data sent between users and servers using HTTPS and TLS.
 - Why it's strong: TLS keeps hackers from intercepting or altering private information, including payment details, passwords, and personal data.
