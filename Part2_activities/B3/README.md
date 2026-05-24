@@ -14,4 +14,9 @@ Employers frequently provide training to employees on phishing, password securit
 ### Analysis:
 Instead of responding to an attack, these proactive security measures concentrate on early detection and prevention. While security awareness training lessens human-related risks, SIEM and IDS technologies continuously monitor systems to detect threats in real time. When combined, they assist organisations in enhancing overall security resilience and preventing cyber incidents.
 ### Evidence:
-This activity includes screenshots and examples of proactive security implementations observed in real-world systems and applications.
+This activity includes references of proactive security implementations observed in real-world systems and applications.
+https://www.ibm.com/think/topics/siem - SIEM
+
+https://learningnetwork.cisco.com/s/question/0D53i00000KsuxDCAR/cisco-idsips-fundamentals - IDS
+
+https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/ism/cyber-security-guidelines/guidelines-for-personnel-security - Security Awareness Training
