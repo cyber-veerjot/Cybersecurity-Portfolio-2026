@@ -38,7 +38,7 @@ This exercise showed how defensive cybersecurity principles may be used to enhan
 ### Evidence:
 All screenshots are in this folder.
 ### References:
-https://owasp.org/www-community/attacks/Clickjacking?utm_source=chatgpt.com - Anti-Clickjacking
+https://owasp.org/www-community/attacks/Clickjacking - Anti-Clickjacking
 
 https://developer.mozilla.org/en-US/docs/Web/Security/Defenses/Subresource_Integrity - Subresource Integrity
 
