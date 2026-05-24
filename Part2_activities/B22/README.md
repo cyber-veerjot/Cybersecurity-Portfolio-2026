@@ -37,3 +37,7 @@ I suggested adding Subresource Integrity (SRI) properties to third-party scripts
 This exercise showed how defensive cybersecurity principles may be used to enhance website security in practical settings. The evaluation enhanced knowledge of HTTP security headers, frequent web security misconfigurations, and defensive defense techniques used to lessen web-based threats.
 ### Evidence:
 All screenshots are in this folder.
+### References:
+https://owasp.org/www-community/attacks/Clickjacking?utm_source=chatgpt.com - Anti-Clickjacking
+https://developer.mozilla.org/en-US/docs/Web/Security/Defenses/Subresource_Integrity - Subresource Integrity
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CSP - CSP
