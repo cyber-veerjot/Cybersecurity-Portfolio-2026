@@ -17,6 +17,7 @@ Flask-Login was used to construct access control methods so that only users who 
 def profile():
 ```
 As a result, protected functionality could not be accessed by unauthorized individuals.
+
 3. **CSRF Protection**
 Flask-WTF forms and CSRF tokens were used to develop CSRF protection, which shields forms from malicious or fraudulent requests.
 - Implementation:
@@ -24,6 +25,7 @@ Flask-WTF forms and CSRF tokens were used to develop CSRF protection, which shie
 {{ form.hidden_tag() }}
 ```
 CSRF tokens were automatically added to protected forms as a result.
+
 4. **Input Validation**
 To decrease invalid input and enhance account security, validation checks were put in place for user account credentials such usernames and email addresses.
 - Implementation:
@@ -33,6 +35,7 @@ if existing_account and existing_account.id != current_user.id:
     flash("Email already in use.")
 ```
 This enhanced account integrity and prevented duplicate email registrations.
+
 5. **Secure Database Handling**
 Instead of using risky raw SQL queries for database operations, the project employed SQLAlchemy ORM. SQL injection vulnerabilities were less likely as a result.
 - Implementation:
