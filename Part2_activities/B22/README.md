@@ -1,6 +1,6 @@
 ## B22 – Enhance the Cybersecurity of a Website from the Community
 ### Description:
-In order to boost the website's security posture, I used OWASP ZAP to do a defensive cybersecurity assessment on a community website. Finding frequent online security misconfigurations and defensive security enhancements were the main goals of the evaluation.
+In order to boost the website's security posture, I used OWASP ZAP to do a defensive cybersecurity assessment on a community website. Finding frequent online security misconfigurations and defensive security enhancements were the main goals of the evaluation. I only recommended the solutions because i didn't get the consent for this activity.
 ### Security Issues Identified:
 1. **Missing Content Security Policy (CSP) Header**
 2. **Missing Anti-Clickjacking Protection**
@@ -14,3 +14,26 @@ I suggested utilizing a Netlify _headers configuration file to include a Content
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
+```
+2. **Anti-Clickjacking Protection**
+I suggested using the X-Frame-Options header or a similar frame-ancestors Content Security Policy directive to strengthen defense against clickjacking attacks. By doing this, dangerous websites are less likely to put their content inside obscured frames that are intended to deceive users into taking unwanted activities.
+```
+X-Frame-Options: DENY
+```
+Alternatively:
+```
+Content-Security-Policy: frame-ancestors 'none';
+```
+3. **Subresource Integrity (SRI)**
+I suggested adding Subresource Integrity (SRI) properties to third-party scripts and stylesheets to enhance the security and integrity of externally loaded resources. By doing this, attackers are less likely to alter materials hosted externally and insert malicious code into the website.
+```
+<link
+  rel="stylesheet"
+  href="https://example.com/style.css"
+  integrity="sha384-oqVuAfXRKap7fdgcCY5uykM6+R9GqQ8K/ux..."
+  crossorigin="anonymous">
+```
+### Analysis:
+This exercise showed how defensive cybersecurity principles may be used to enhance website security in practical settings. The evaluation enhanced knowledge of HTTP security headers, frequent web security misconfigurations, and defensive defense techniques used to lessen web-based threats.
+### Evidence:
+All screenshots are in this folder.
