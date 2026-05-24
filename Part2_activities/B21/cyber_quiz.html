@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Cybersecurity Awareness Quiz</title>
+
+    <style>
+
+        body {
+            font-family: Arial;
+            background-color: #f4f4f4;
+            padding: 30px;
+        }
+
+        .quiz-box {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 800px;
+            margin: auto;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .question {
+            margin-top: 20px;
+        }
+
+        button {
+            margin-top: 25px;
+            padding: 10px 15px;
+            font-size: 16px;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<div class="quiz-box">
+
+    <h1>Cybersecurity Awareness Quiz</h1>
+
+    <form id="quizForm">
+
+        <div class="question">
+            <p>1. What does MFA stand for?</p>
+
+            <input type="radio" name="q1" value="A"> Multi-Factor Authentication<br>
+            <input type="radio" name="q1" value="B"> Main Firewall Access<br>
+            <input type="radio" name="q1" value="C"> Multiple File Access<br>
+        </div>
+
+        <div class="question">
+            <p>2. Which attack tricks users into revealing personal information?</p>
+
+            <input type="radio" name="q2" value="A"> Encryption<br>
+            <input type="radio" name="q2" value="B"> Phishing<br>
+            <input type="radio" name="q2" value="C"> Hashing<br>
+        </div>
+
+        <div class="question">
+            <p>3. What type of malware locks files and demands payment?</p>
+
+            <input type="radio" name="q3" value="A"> Ransomware<br>
+            <input type="radio" name="q3" value="B"> Spyware<br>
+            <input type="radio" name="q3" value="C"> Adware<br>
+        </div>
+
+        <div class="question">
+            <p>4. Which password is the strongest?</p>
+
+            <input type="radio" name="q4" value="A"> password123<br>
+            <input type="radio" name="q4" value="B"> abc123<br>
+            <input type="radio" name="q4" value="C"> T9!kL2@pZ7<br>
+        </div>
+
+        <div class="question">
+            <p>5. What should you do with suspicious links?</p>
+
+            <input type="radio" name="q5" value="A"> Click immediately<br>
+            <input type="radio" name="q5" value="B"> Verify before clicking<br>
+            <input type="radio" name="q5" value="C"> Share with friends<br>
+        </div>
+
+        <div class="question">
+            <p>6. What is the main purpose of encryption?</p>
+
+            <input type="radio" name="q6" value="A"> To speed up internet<br>
+            <input type="radio" name="q6" value="B"> To protect data confidentiality<br>
+            <input type="radio" name="q6" value="C"> To remove viruses<br>
+        </div>
+
+        <div class="question">
+            <p>7. Which of the following is a social engineering attack?</p>
+
+            <input type="radio" name="q7" value="A"> Phishing<br>
+            <input type="radio" name="q7" value="B"> Firewall<br>
+            <input type="radio" name="q7" value="C"> Encryption<br>
+        </div>
+
+        <div class="question">
+            <p>8. What should you do before downloading files online?</p>
+
+            <input type="radio" name="q8" value="A"> Download immediately<br>
+            <input type="radio" name="q8" value="B"> Verify the website is trusted<br>
+            <input type="radio" name="q8" value="C"> Disable antivirus<br>
+        </div>
+
+        <div class="question">
+            <p>9. Which device security practice is recommended?</p>
+
+            <input type="radio" name="q9" value="A"> Never updating software<br>
+            <input type="radio" name="q9" value="B"> Using public Wi-Fi for banking<br>
+            <input type="radio" name="q9" value="C"> Installing security updates regularly<br>
+        </div>
+
+        <div class="question">
+            <p>10. What is ransomware?</p>
+
+            <input type="radio" name="q10" value="A"> Malware that locks files for payment<br>
+            <input type="radio" name="q10" value="B"> A password manager<br>
+            <input type="radio" name="q10" value="C"> A network cable<br>
+        </div>
+
+        <button type="button" onclick="checkQuiz()">Submit Quiz</button>
+
+    </form>
+
+    <h2 id="result"></h2>
+
+</div>
+
+<script>
+
+function checkQuiz() {
+
+    let score = 0;
+
+    if(document.querySelector('input[name="q1"]:checked')?.value === "A")
+        score++;
+
+    if(document.querySelector('input[name="q2"]:checked')?.value === "B")
+        score++;
+
+    if(document.querySelector('input[name="q3"]:checked')?.value === "A")
+        score++;
+
+    if(document.querySelector('input[name="q4"]:checked')?.value === "C")
+        score++;
+
+    if(document.querySelector('input[name="q5"]:checked')?.value === "B")
+        score++;
+
+    if(document.querySelector('input[name="q6"]:checked')?.value === "B")
+        score++;
+
+    if(document.querySelector('input[name="q7"]:checked')?.value === "A")
+        score++;
+
+    if(document.querySelector('input[name="q8"]:checked')?.value === "B")
+        score++;
+
+    if(document.querySelector('input[name="q9"]:checked')?.value === "C")
+        score++;
+
+    if(document.querySelector('input[name="q10"]:checked')?.value === "A")
+        score++;
+
+    document.getElementById("result").innerHTML =
+        "Your Score: " + score + " / 10";
+
+}
+
+</script>
+
+</body>
+</html>
