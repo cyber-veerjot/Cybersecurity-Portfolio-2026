@@ -21,3 +21,6 @@ Secure websites encrypt data sent between users and servers using HTTPS and TLS.
 These robust security measures show how layered defenses can drastically lower cyber risk. Sensitive information is protected even in the event that one security layer fails thanks to methods like encryption, hashing, and MFA. Secure communication methods and automatic upgrades also lessen vulnerability to known flaws and network-based assaults. When combined, these actions improve overall cybersecurity posture and enhance system resilience.
 ### Evidence:
 For the evidence, this activity contains a screenshot of strong security implementations.
+### References:
+- password hashing - https://www.dashlane.com/blog/what-is-password-hashing
+- HTTPS - https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/
